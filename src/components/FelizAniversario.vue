@@ -50,7 +50,7 @@ export default {
         "Parabéns #nome, que Deus te ilumine e proteja sempre, que todos os seus sonhos se realizem e que você seja muito feliz. Tudo de bom para você hoje e sempre!👏🏻👏🏻❤️❤️❤️"
       ],
       mensagem: "",
-      nome: "wesley",
+      nome: "",
       copiado: false,
     };
   },
