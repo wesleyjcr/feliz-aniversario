@@ -47,7 +47,8 @@ export default {
         "Parabéns #nome que Deus te conceda muitos anos de vida com saúde paz e muitas realizações !!🎂👏🏻👏🏻🥳🥰🥰",
         "Parabéns #nome. Que papai do céu te abençoe e te protege sempre. Que ele continue iluminando seus passos, para que você continue sendo esta pessoa de coração maravilhoso. Aproveita seu dia👏🏼👏🏼👏🏼❤️🥰🥰🥰🥰",
         "Parabéns #nome te desejo tudo de bom que há nesse mundo. Muitas felicidades e muitos anos de vida e saúde. Que Deus te abençoe e te proteja sempre",
-        "Parabéns #nome, que Deus te ilumine e proteja sempre, que todos os seus sonhos se realizem e que você seja muito feliz. Tudo de bom para você hoje e sempre!👏🏻👏🏻❤️❤️❤️"
+        "Parabéns #nome, que Deus te ilumine e proteja sempre, que todos os seus sonhos se realizem e que você seja muito feliz. Tudo de bom para você hoje e sempre!👏🏻👏🏻❤️❤️❤️",
+        "Parabéns #nome, muitos anos de vida e saúde e que nossa senhora ilumine a senhora sempre feliz aniversário 👏👏👏😍🎉🎉🎉❤"
       ],
       mensagem: "",
       nome: "",
