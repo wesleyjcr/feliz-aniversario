@@ -1,24 +1,6 @@
-# feliz-aniversario
+# Feliz aniversário
 
-## Project setup
-```
-npm install
-```
+Feliz aniversário é um gerador de mensagens para copiar e colar no whatsapp. A ideia é facilitar o processo de felicitações trazendo ideias de mensagens para serem utilizadas.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Uso
+Faça o teste do projeto por este link [Feliz aniversário](https://wesleyjcr.github.io/feliz-aniversario/)
